@@ -1,0 +1,176 @@
+{
+  "users": {
+    "7975953631": {
+      "mobile": "7975953631",
+      "budget": 100000.0,
+      "expenses": [
+        {
+          "date": "2026-04-01",
+          "merchant": "Swiggy",
+          "amount": 420.0,
+          "category": "Food",
+          "source": "demo_seed"
+        },
+        {
+          "date": "2026-03-31",
+          "merchant": "Uber",
+          "amount": 260.0,
+          "category": "Transport",
+          "source": "demo_seed"
+        },
+        {
+          "date": "2026-03-29",
+          "merchant": "Amazon",
+          "amount": 1299.0,
+          "category": "Shopping",
+          "source": "demo_seed"
+        },
+        {
+          "date": "2026-03-27",
+          "merchant": "Airtel",
+          "amount": 799.0,
+          "category": "Bills",
+          "source": "demo_seed"
+        },
+        {
+          "date": "2026-03-25",
+          "merchant": "Cafe",
+          "amount": 180.0,
+          "category": "Food",
+          "source": "demo_seed"
+        },
+        {
+          "date": "2026-03-23",
+          "merchant": "Metro Card",
+          "amount": 240.0,
+          "category": "Transport",
+          "source": "demo_seed"
+        },
+        {
+          "txn_id": "tx_7681_1",
+          "date": "2026-03-12",
+          "merchant": "BigBasket",
+          "amount": 1763.45,
+          "category": "Food",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_2",
+          "date": "2026-03-28",
+          "merchant": "Myntra",
+          "amount": 490.93,
+          "category": "Shopping",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_3",
+          "date": "2026-03-13",
+          "merchant": "Myntra",
+          "amount": 235.98,
+          "category": "Shopping",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_4",
+          "date": "2026-03-19",
+          "merchant": "BigBasket",
+          "amount": 1532.6,
+          "category": "Food",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_5",
+          "date": "2026-03-25",
+          "merchant": "Myntra",
+          "amount": 1396.98,
+          "category": "Shopping",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_6",
+          "date": "2026-03-15",
+          "merchant": "BigBasket",
+          "amount": 1401.44,
+          "category": "Food",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_7",
+          "date": "2026-03-27",
+          "merchant": "Metro Card",
+          "amount": 2130.6,
+          "category": "Transport",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_8",
+          "date": "2026-03-14",
+          "merchant": "Amazon",
+          "amount": 736.62,
+          "category": "Shopping",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_9",
+          "date": "2026-03-29",
+          "merchant": "Airtel",
+          "amount": 891.25,
+          "category": "Bills",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_10",
+          "date": "2026-03-31",
+          "merchant": "Airtel",
+          "amount": 2122.69,
+          "category": "Bills",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_11",
+          "date": "2026-03-15",
+          "merchant": "Electricity Board",
+          "amount": 1099.54,
+          "category": "Bills",
+          "source": "bank_api"
+        },
+        {
+          "txn_id": "tx_7681_12",
+          "date": "2026-03-19",
+          "merchant": "Electricity Board",
+          "amount": 1788.01,
+          "category": "Bills",
+          "source": "bank_api"
+        },
+        {
+          "date": "2026-04-02",
+          "merchant": "Manual Entry",
+          "amount": 1200.0,
+          "category": "Food",
+          "source": "manual"
+        },
+        {
+          "date": "2026-04-02",
+          "merchant": "Manual Entry",
+          "amount": 60.0,
+          "category": "Transport",
+          "source": "manual"
+        },
+        {
+          "date": "2026-04-02",
+          "merchant": "Manual Entry",
+          "amount": 0.0,
+          "category": "Food",
+          "source": "manual"
+        },
+        {
+          "date": "2026-04-02",
+          "merchant": "Manual Entry",
+          "amount": 50000.0,
+          "category": "Food",
+          "source": "manual"
+        }
+      ]
+    }
+  }
+}
